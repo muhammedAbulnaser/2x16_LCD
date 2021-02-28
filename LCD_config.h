@@ -2,7 +2,7 @@
  * LCD_config.h
  *
  *  Created on: Sep 13, 2018
- *  Author: Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #ifndef LCD_CONFIG_H_

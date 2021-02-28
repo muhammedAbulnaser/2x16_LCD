@@ -2,7 +2,7 @@
  * LCD_interface.h
  *
  *  Created on: Aug 22, 2018
- *  Author: Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #ifndef LCD_INTERFACE_H_

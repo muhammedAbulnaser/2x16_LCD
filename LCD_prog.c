@@ -2,7 +2,7 @@
   * LCD_prog.c
  *
  *  Created on: Aug 22, 2018
- *  Author: Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #include"std_types.h"

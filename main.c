@@ -3,7 +3,7 @@
  * main.c
  *
  *  Created on: Aug 27, 2018
- *  Author: Abdulnaser
+ *      Author: Abdulnaser
  */
 #include"LCD_interface.h"
 #include"DIO_interface.h"

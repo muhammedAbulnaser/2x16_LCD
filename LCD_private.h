@@ -2,7 +2,7 @@
  * LCD_private.h
  *
  *  Created on: Aug 22, 2018
- *  Author: Abdulnaser
+ *      Author: Abdulnaser
  */
 
 #ifndef LCD_PRIVATE_H_
